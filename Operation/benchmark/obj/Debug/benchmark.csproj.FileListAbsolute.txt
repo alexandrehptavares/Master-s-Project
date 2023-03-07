@@ -1,0 +1,132 @@
+C:\Users\BioLAB2\Documents\Github\aps\Software\benchmark\benchmark\bin\Debug\benchmark.exe.config
+C:\Users\BioLAB2\Documents\Github\aps\Software\benchmark\benchmark\bin\Debug\benchmark.exe
+C:\Users\BioLAB2\Documents\Github\aps\Software\benchmark\benchmark\bin\Debug\benchmark.pdb
+C:\Users\BioLAB2\Documents\Github\aps\Software\benchmark\benchmark\obj\Debug\benchmark.MainForm.resources
+C:\Users\BioLAB2\Documents\Github\aps\Software\benchmark\benchmark\obj\Debug\benchmark.Properties.Resources.resources
+C:\Users\BioLAB2\Documents\Github\aps\Software\benchmark\benchmark\obj\Debug\benchmark.csproj.GenerateResource.cache
+C:\Users\BioLAB2\Documents\Github\aps\Software\benchmark\benchmark\obj\Debug\benchmark.csproj.CoreCompileInputs.cache
+C:\Users\BioLAB2\Documents\Github\aps\Software\benchmark\benchmark\obj\Debug\benchmark.csproj.CopyComplete
+C:\Users\BioLAB2\Documents\Github\aps\Software\benchmark\benchmark\obj\Debug\benchmark.exe
+C:\Users\BioLAB2\Documents\Github\aps\Software\benchmark\benchmark\obj\Debug\benchmark.pdb
+C:\Users\BioLAB2\Documents\Github\aps\Software\benchmark\benchmark\obj\Debug\benchmark.csprojAssemblyReference.cache
+C:\Users\BioLAB2\Documents\Github\aps\Software\benchmark\benchmark\bin\Debug\benchmark.exe.CodeAnalysisLog.xml
+C:\Users\BioLAB2\Documents\Github\aps\Software\benchmark\benchmark\bin\Debug\benchmark.exe.lastcodeanalysissucceeded
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Maquina Azul\aps\Software\benchmark\benchmark\bin\Debug\benchmark.exe.config
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Maquina Azul\aps\Software\benchmark\benchmark\bin\Debug\benchmark.exe
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Maquina Azul\aps\Software\benchmark\benchmark\bin\Debug\benchmark.pdb
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Maquina Azul\aps\Software\benchmark\benchmark\obj\Debug\benchmark.csprojAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Maquina Azul\aps\Software\benchmark\benchmark\obj\Debug\benchmark.MainForm.resources
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Maquina Azul\aps\Software\benchmark\benchmark\obj\Debug\benchmark.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Maquina Azul\aps\Software\benchmark\benchmark\obj\Debug\benchmark.csproj.GenerateResource.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Maquina Azul\aps\Software\benchmark\benchmark\obj\Debug\benchmark.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Maquina Azul\aps\Software\benchmark\benchmark\obj\Debug\benchmark.csproj.CopyComplete
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Maquina Azul\aps\Software\benchmark\benchmark\obj\Debug\benchmark.exe
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Maquina Azul\aps\Software\benchmark\benchmark\obj\Debug\benchmark.pdb
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\bin\Debug\benchmark.exe.config
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\bin\Debug\benchmark.exe
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\bin\Debug\benchmark.pdb
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\obj\Debug\benchmark.csprojAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\obj\Debug\benchmark.MainForm.resources
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\obj\Debug\benchmark.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\obj\Debug\benchmark.csproj.GenerateResource.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\obj\Debug\benchmark.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\obj\Debug\benchmark.csproj.CopyComplete
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\obj\Debug\benchmark.exe
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\obj\Debug\benchmark.pdb
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\bin\Debug\Accord.dll.config
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\bin\Debug\Accord.dll
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\bin\Debug\Accord.Math.Core.dll
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\bin\Debug\Accord.Math.dll
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\bin\Debug\Accord.xml
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\bin\Debug\Accord.Math.xml
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0\benchmark\bin\Debug\Accord.Math.Core.xml
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\Accord.dll.config
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\benchmark.exe.config
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\benchmark.exe
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\benchmark.pdb
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\Accord.dll
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\Accord.Math.Core.dll
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\Accord.Math.dll
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\Accord.xml
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\Accord.Math.xml
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\Accord.Math.Core.xml
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.csprojAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.MainForm.resources
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.csproj.GenerateResource.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.csproj.CopyComplete
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.exe
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.pdb
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\Accord.dll.config
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\benchmark.exe.config
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\benchmark.exe
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\benchmark.pdb
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\Accord.dll
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\Accord.Math.Core.dll
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\Accord.Math.dll
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\Accord.xml
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\Accord.Math.xml
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\bin\Debug\Accord.Math.Core.xml
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.csprojAssemblyReference.cache
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.MainForm.resources
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.Properties.Resources.resources
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.csproj.GenerateResource.cache
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.csproj.CoreCompileInputs.cache
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.csproj.CopyComplete
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.exe
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Treinamento\benchmark\obj\Debug\benchmark.pdb
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.dll.config
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\bin\Debug\benchmark.exe.config
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\bin\Debug\benchmark.exe
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\bin\Debug\benchmark.pdb
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.dll
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.Math.Core.dll
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.Math.dll
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.xml
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.Math.xml
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.Math.Core.xml
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.csprojAssemblyReference.cache
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.MainForm.resources
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.Properties.Resources.resources
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.csproj.GenerateResource.cache
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.csproj.CoreCompileInputs.cache
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.csproj.CopyComplete
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.exe
+C:\Users\BioLAB2\Documents\Alexandre Henrique\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.pdb
+G:\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.dll.config
+G:\MESTRADO v2.0 - Operação\benchmark\bin\Debug\benchmark.exe.config
+G:\MESTRADO v2.0 - Operação\benchmark\bin\Debug\benchmark.exe
+G:\MESTRADO v2.0 - Operação\benchmark\bin\Debug\benchmark.pdb
+G:\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.dll
+G:\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.Math.Core.dll
+G:\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.Math.dll
+G:\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.xml
+G:\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.Math.xml
+G:\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.Math.Core.xml
+G:\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.csprojAssemblyReference.cache
+G:\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.MainForm.resources
+G:\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.Properties.Resources.resources
+G:\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.csproj.GenerateResource.cache
+G:\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.csproj.CoreCompileInputs.cache
+G:\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.csproj.CopyComplete
+G:\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.exe
+G:\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.pdb
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.dll.config
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\bin\Debug\benchmark.exe.config
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\bin\Debug\benchmark.exe
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\bin\Debug\benchmark.pdb
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.dll
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.Math.Core.dll
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.Math.dll
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.xml
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.Math.xml
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\bin\Debug\Accord.Math.Core.xml
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.csprojAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.MainForm.resources
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.csproj.GenerateResource.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.csproj.CopyComplete
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.exe
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VERSÂO FINAL\MESTRADO v2.0 - Operação\benchmark\obj\Debug\benchmark.pdb

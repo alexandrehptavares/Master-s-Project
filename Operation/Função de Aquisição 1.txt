@@ -1,0 +1,53 @@
+int indexInputBuffer = 0;
+
+                    while (indexInputBuffer < bytesToRead)
+                    {
+                        if (Controller_Serial.Board.ReadByte() == 126)           // Verifica Start Byte
+                        {
+                            // Início dados
+                            int LSB_el = Controller_Serial.Board.ReadByte(); 
+                            int MSB_el = Controller_Serial.Board.ReadByte();
+                            int LSB_p_1 = Controller_Serial.Board.ReadByte();
+                            int MSB_p_1 = Controller_Serial.Board.ReadByte();
+                            int LSB_p_2 = Controller_Serial.Board.ReadByte();
+                            int MSB_p_2 = Controller_Serial.Board.ReadByte();
+                            int LSB_pI = Controller_Serial.Board.ReadByte();
+                            int MSB_pI = Controller_Serial.Board.ReadByte();
+                            // Fim dados
+
+                            int CheckSum = Controller_Serial.Board.ReadByte();
+                            int StopByte = Controller_Serial.Board.ReadByte();
+
+                            indexInputBuffer += packeageSize; 
+
+                            if (StopByte == 129)            // Verifica Stop Byte 
+                            {
+                                int somaMSBs = MSB_el + MSB_p_1 + MSB_p_2 + MSB_pI;
+                                if (somaMSBs == CheckSum)    // Verifica CheckSum  
+                                {
+                                    int ampElectret = ((MSB_el << 8) + LSB_el);
+                                    int ampPression_1 = ((MSB_p_1 << 8) + LSB_p_1);
+                                    int ampPression_2 = ((MSB_p_2 << 8) + LSB_p_2);
+                                    int ampPhotoInt = ((MSB_pI << 8) + LSB_pI);
+
+                                    double el_signal = (ampElectret / ampScale);
+                                    double p_1_signal = (ampPression_1 / ampScale);
+                                    double p_2_signal = (ampPression_2 / ampScale);
+                                    double pI_signal = (ampPhotoInt / ampScale);
+
+                                    y = new double[5];
+                                    y[0] = countSerial;
+                                    y[1] = el_signal;
+                                    y[2] = p_1_signal;
+                                    y[3] = p_2_signal;
+                                    y[4] = pI_signal;
+
+                                    //tempo de arduino 
+                                    countSerial += dt;
+                                    BC.Push(y);
+                                }
+                            }
+                            else
+                                indexInputBuffer++;
+                        }
+                    }

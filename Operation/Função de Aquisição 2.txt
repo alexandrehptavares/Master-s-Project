@@ -1,0 +1,62 @@
+while (flagLife)
+            {
+                while (runThAq)
+                {
+                    //mutex.WaitOne();
+
+                    bytesToRead = Controller_Serial.Board.BytesToRead;
+
+                    int StartBytepos = 0;
+
+                    byte[] inputBuffer = new byte[bytesToRead];
+                    Controller_Serial.Board.Read(inputBuffer, 0, bytesToRead);
+
+                    // Verificação do protocolo UART com 1 Start Byte, 1 Stop Byte, 1 CheckSum (pacote com 11 bytes)
+                    if (bytesToRead > packeageSize)
+                    {
+                        // Verificação da posição do primeiro Start Byte
+                        for (int ii = 0; ii < packeageSize; ii++)
+                        {
+                            if ((inputBuffer[ii] == 126) && (inputBuffer[ii + packeageSize - 1] == 129))
+                            {
+                                int somaMSB = inputBuffer[ii + 2] + inputBuffer[ii + 4] + inputBuffer[ii + 6] + inputBuffer[ii + 8];
+                                if (somaMSB == inputBuffer[ii + packeageSize - 2])
+                                {
+                                    StartBytepos = ii;
+                                    break;
+                                }
+                            }
+                        }
+
+                        // Calcula a quantidade de pacotes completos
+                        int qtdPackeages = Convert.ToInt16((bytesToRead - StartBytepos) / packeageSize);
+                        int posLastBytesLastPack = qtdPackeages * packeageSize + StartBytepos - 1;
+
+                        // Leitura dos dados dentro dos pacotes completos (de 11 bytes)
+                        for (int ii = StartBytepos; ii < posLastBytesLastPack; ii += packeageSize)
+                        {
+                            int ampElectret = (inputBuffer[ii + 2] << 8) + inputBuffer[ii + 1];
+                            int ampPression_1 = (inputBuffer[ii + 4] << 8) + inputBuffer[ii + 3];
+                            int ampPression_2 = (inputBuffer[ii + 6] << 8) + inputBuffer[ii + 5];
+                            int ampPhotoInterruptor = (inputBuffer[ii + 8] << 8) + inputBuffer[ii + 7];
+
+                            double el_signal = ampElectret / ampScale;
+                            double p_1_signal = ampPression_1 / ampScale;
+                            double p_2_signal = ampPression_2 / ampScale;
+                            double ph_int_signal = ampPhotoInterruptor / ampScale;
+
+                            // Passagem do pacote de dados pra Main Buffer Circular
+                            y = new double[5];
+                            y[0] = Math.Round(countSerial,3);
+                            y[1] = el_signal;
+                            y[2] = p_1_signal;
+                            y[3] = p_2_signal;
+                            y[4] = ph_int_signal;
+
+                            //tempo de arduino 
+                            countSerial += dt;
+                            BC.Push(y);
+                        }
+                    }
+                }
+            }
